@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\bin\Debug\net6.0-windows\Practica 2 (Do while).exe
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\bin\Debug\net6.0-windows\Practica 2 (Do while).deps.json
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\bin\Debug\net6.0-windows\Practica 2 (Do while).runtimeconfig.json
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\bin\Debug\net6.0-windows\Practica 2 (Do while).dll
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\bin\Debug\net6.0-windows\Practica 2 (Do while).pdb
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\Practica_2__Do_while_.Form1.resources
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\Practica 2 (Do while).csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\Practica 2 (Do while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\Practica 2 (Do while).AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\Practica 2 (Do while).AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\Practica 2 (Do while).csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\Practica 2 (Do while).dll
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\refint\Practica 2 (Do while).dll
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\Practica 2 (Do while).pdb
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\Practica 2 (Do while).genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\visual estudio\Practica 2 (Do while)\obj\Debug\net6.0-windows\ref\Practica 2 (Do while).dll
