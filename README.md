@@ -15,3 +15,7 @@ Practica 3
 Practica 4
 
 ![image](https://github.com/GalerdonxD/Practicas-Do-While/assets/147341276/0f5ad2ef-4d1a-4fd2-bfe4-6fb6a7a23d4e)
+
+Practica 5
+
+![image](https://github.com/GalerdonxD/Practicas-Do-While/assets/147341276/db9d9b7b-aaa1-4269-893b-5794c42f90f5)
