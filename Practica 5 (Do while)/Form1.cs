@@ -1,0 +1,25 @@
+namespace Practica_5__Do_while_
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int num = int.Parse(textBox1.Text);
+            if (num % 2 == 0)
+            {
+                listBox1.Items.Add(num + " Par");
+            }
+            else
+            {
+                listBox1.Items.Add(num + " impar");
+            }
+            textBox1.Text = " ";
+            textBox1.Focus();
+        }
+    }
+}
